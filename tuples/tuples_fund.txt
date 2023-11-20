@@ -1,0 +1,6 @@
+a tuple is an immutable sequence of python objects 
+
+tuples are also comparable and hashable 
+
+t = 'a', 'b', 'c', 'd', 'e'
+t = ('a', 'b', 'c', 'd', 'e')
