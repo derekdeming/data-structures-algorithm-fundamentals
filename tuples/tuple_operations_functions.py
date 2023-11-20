@@ -33,3 +33,8 @@ print(my_tuple.count(2)) # output is 1 because 2 is only occuring once
 
 # index() - searches the tuple for a specified value and returns the first position/occurrence of the specified value
 print(my_tuple.index(4)) # output is 3 because 4 is in the 3rd position of the tuple
+
+print(len(my_tuple)) # returns length of tuple 
+print(max(my_tuple)) # max number in tuple: 5 
+print(min(my_tuple)) # min number in tuple: 1 
+print(tuple([1,2,3,4,5])) # converts list into tuple 
